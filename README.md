@@ -5,4 +5,4 @@ Munch is a frontend application that enables users to browse and search differen
 
 To run Munch locally, you'll need to use json-server. Munch fetches data from <a href="https://www.themealdb.com/">theMealDb</a> and mimics persistence using a db.json file in conjunction with json-server.
 
-If you don't already have json-server installed, you can install it by running npm install -g json-server
+If you don't already have json-server installed, you can install it by running `npm install -g json-server`.
