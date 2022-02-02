@@ -3,4 +3,4 @@ Munch is a frontend application that enables users to browse and search differen
 
 ## Launch
 
-To run Munch locally, you'll need to use json-server. Munch fetches data from theMealDb and mimics persistence using a db.json file in conjunction with json-server.
+To run Munch locally, you'll need to use json-server. Munch fetches data from <a href="https://www.themealdb.com/">theMealDb</a> and mimics persistence using a db.json file in conjunction with json-server.
