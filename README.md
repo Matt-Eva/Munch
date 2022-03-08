@@ -18,8 +18,6 @@ You can then open the application in your browser by running `open index.html`.
 
 <img width="1536" alt="Screen Shot 2022-02-04 at 9 09 50 AM" src="https://user-images.githubusercontent.com/89106805/152572195-c937e6ed-c120-444b-864b-4c115ae9b528.png">
 
-![PXL_20211224_231212199 PORTRAIT_2](https://user-images.githubusercontent.com/89106805/157344248-c1d08e9e-319d-4b26-850e-65ace5b03eba.jpg)
-<img width="1536" alt="Screen Shot 2022-02-04 at 9 09 50 AM" src="https://user-images.githubusercontent.com/89106805/152572195-c937e6ed-c120-444b-864b-4c115ae9b528.png">
 
 ## Created By
 
